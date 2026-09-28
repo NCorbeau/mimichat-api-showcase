@@ -43,4 +43,4 @@ No client ID, client secret, Firebase service account, real account data, or pro
 
 ## Security scope
 
-This is an API example for review, **not production security certified**. It deliberately has no real Monday/Firebase adapters, OAuth state or PKCE flow, durable storage, abuse protection, Firebase security rules, deployment configuration, or production dependency review. Before a real deployment, implement and review those controls and keep all credentials in server-side secret storage. Keep this repository private until its finished content and sensitive-data review are approved for publication.
+This is an API example for review, **not production security certified**. It deliberately has no real Monday/Firebase adapters, OAuth state or PKCE flow, durable storage, abuse protection, Firebase security rules, deployment configuration, or production dependency review. Before a real deployment, implement and review those controls and keep all credentials in server-side secret storage.
